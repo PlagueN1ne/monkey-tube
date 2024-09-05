@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho{
+    background-color: rgb(26, 26, 26);
+    height: 75px;
+    display: flex;
+    display: flex;
+    margin: auto;
+    
+}
+
+.titulo{
+    color: aliceblue;
+    margin: auto;
+    text-align: center;
+}
+
+.botoes{
+    margin: 10px;
+ margin-top: auto;
+ margin-bottom: auto;
+}
+
+i{
+    color: aliceblue;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.deixa{
+    background-color: rgb(151, 163, 168);
+    display: flex;
+    height: 400px;
+    font-family: Arial;
+}
+
+.acontecer{
+    width: 50%;
+    padding-left: 100px;
+}
+
+.naturalmente{
+    color: hsl(0, 0%, 0%);
+    font-size: 50px;
+    text-align: left;
+    margin-top: 65px;
+}
+.eu{
+    margin-top: 25px;
+    text-align:left;
+    font-size: 25px ;
+}
+
+.nao{
+    margin: auto;
+    margin-right: 140px
+}
+
+.quero{
+    background-color: black;
+}
+
+.ver{
+    color: aliceblue;
+    padding-top: 25px;
+}
+
+.voce{
+    background-color: black;
+    display: flex;
+    overflow-x: auto;
+}
+
+.voce img{
+    height: 200px;
+    width: 300px;
+    margin: 7.5px;
+    opacity: 0.4;
+}
+
+.voce img:hover{
+    opacity: 1.0;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.chorar{
+    height: 75px;
+    background-color: rgb(12, 12, 12);
+    color: aliceblue;
+    display: flex;
+}
+
+.chorar p{
+    margin: auto;
+    font-size: 30px;
+}
